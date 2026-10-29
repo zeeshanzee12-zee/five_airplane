@@ -1,0 +1,4 @@
+# Core tool uses the Python standard library only (Python 3.10+).
+# Optional extras:
+scikit-learn>=1.3   # IsolationForest anomaly detection
+anthropic>=0.30     # --ai-summary natural-language report
