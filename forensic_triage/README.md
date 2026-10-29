@@ -16,7 +16,7 @@ produces a prioritised list of what an investigator should examine first.
 
 ## Install
 ```bash
-git clone https://github.com/<your-username>/forensic-triage-tool.git
+git clone https://github.com/<Zzeeshanzee12-zee>/forensic-triage-tool.git
 cd forensic-triage-tool
 pip install -r requirements.txt   # optional extras only
 ```
